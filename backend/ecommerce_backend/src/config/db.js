@@ -21,4 +21,4 @@ const connectDB = async()=>{
     }
 }
 
-export {db, connectDB}
+export {connectDB}
